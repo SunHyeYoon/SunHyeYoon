@@ -1,4 +1,4 @@
-### Hi there 👋
+### YOON SUN HYE 😘
 
 <!--
 **SunHyeYoon/SunHyeYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunHyeYoon&show_icons=true&theme=radical)
+### BOJ solved Rank
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lieto96)](https://solved.ac/lieto96)
