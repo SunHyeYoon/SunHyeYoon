@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunHyeYoon&show_icons=true&theme=shades-of-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunHyeYoon&layout=compact&theme=shades-of-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunHyeYoon&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunHyeYoon&layout=compact&theme=tokyonight)
 
 ### BOJ solved Rank
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lieto96)](https://solved.ac/lieto96)
