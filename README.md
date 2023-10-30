@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### GitHub Stats
-<div align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunHyeYoon&show_icons=true&theme=radical)
-
+<div align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunHyeYoon&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunHyeYoon&layout=compact&theme=radical)</div>
 
 ### BOJ solved Rank
